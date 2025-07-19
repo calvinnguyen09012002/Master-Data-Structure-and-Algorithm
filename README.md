@@ -16,7 +16,7 @@ Output: 4
 Viết hàm để xoay một mảng k vị trí sang bên phải. (k có thể lớn hơn độ dài của mảng).
 
 **Ví dụ:**
-Input: [1, 2, 3, 4, 5], k = 2
+Input: [1, 2, 3, 4, 5], k = 3
 Output: [4, 5, 1, 2, 3]
 
 ## Bài Tập 3: Tìm Các Số Trùng Lặp
